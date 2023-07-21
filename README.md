@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=candobettercode&label=Profile%20views&color=0e75b6&style=flat" alt="candobettercode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=candobettercode" alt="candobettercode" /></a> </p>
-
 - 🔭 I’m currently working on **ML/AI Projects**
 
 - 🌱 I’m currently learning **Deep Learning**
