@@ -15,7 +15,9 @@ Hey everyone! 👋 Welcome to my GitHub world!
 </p>
 
 * 🌍  I'm based in India
+<p>
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
+</p>
 <p>
 <a href="https://www.github.com/candobettercode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/candobettercode?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
