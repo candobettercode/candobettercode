@@ -16,12 +16,11 @@ Hey everyone! 👋 Welcome to my GitHub world!
 
 * 🌍  I'm based in India
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
 <p>
 <a href="https://www.github.com/candobettercode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/candobettercode?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=candobettercode&label=Profile%20views&color=0e75b6&style=flat" alt="candobettercode" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange&style=flat)
 
 - 🔭 I’m currently working on **ML/AI Projects**
 
