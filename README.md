@@ -20,7 +20,7 @@ Hey everyone! 👋 Welcome to my GitHub world!
 <a href="https://www.github.com/candobettercode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/candobettercode?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange&style=flat)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=flat)
 
 - 🔭 I’m currently working on **ML/AI Projects**
 
