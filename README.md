@@ -22,6 +22,10 @@ src="https://img.shields.io/github/followers/candobettercode?logo=github&style=f
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=flat)
 
+- 🎥 Project Video Links -
+  🔶 https://youtu.be/sVJ7ALLzpxk
+  🔶 https://youtu.be/63wZMFyn_3Q
+
 - 🔭 I’m currently working on **ML/AI Projects**
 
 - 🌱 I’m currently learning **Deep Learning**
