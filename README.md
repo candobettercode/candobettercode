@@ -20,7 +20,7 @@ Hey everyone! 👋 Welcome to my GitHub world!
 <a href="https://www.github.com/candobettercode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/candobettercode?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
-![](https://komarev.com/ghpvc/?username=candobettercode&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=candobettercode&label=PROFILE+VIEWS)
 
 - 🎥 Project Video Links -
   🔶 https://youtu.be/sVJ7ALLzpxk
