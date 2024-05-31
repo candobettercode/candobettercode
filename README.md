@@ -1,6 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddhesh
-================================================================================================================================
 👋 Hey fellow coders! I'm Siddhesh
+================================================================================================================================
 
 I'm a passionate Data Enthusiast who loves diving deep into the world of data. 
 My repositories are a mix of exciting projects showcasing real-time data streaming, data warehouse design, and the magic of Apache Spark. I geek out over cloud infrastructure and DevOps, using Terraform and CI/CD to make data dreams come true! 🌟 You'll also find cool stuff on data integration with APIs and web scraping. 
