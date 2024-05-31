@@ -1,12 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddhesh
 ================================================================================================================================
-
-Data Enthusiastic/ Data Engineer
---------------------------------
-
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p>
 👋 Hey fellow coders! I'm Siddhesh
 
 I'm a passionate Data Enthusiast who loves diving deep into the world of data. 
@@ -14,16 +7,9 @@ My repositories are a mix of exciting projects showcasing real-time data streami
 
 Let's learn and grow together! 🚀 
 
-\#DataEnthusiast #DataEngineering #Cloud #ApacheSpark #Terraform #GeekOutWithData
-</p>
+🔭 Current Endeavors
 
-* 🌍  I'm based in India
 
-<p>
-<a href="https://www.github.com/candobettercode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/candobettercode?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
-
-![](https://komarev.com/ghpvc/?username=candobettercode&label=PROFILE+VIEWS)
 
 - 🎥 Project Video Links -
   🔶 https://youtu.be/sVJ7ALLzpxk
