@@ -18,13 +18,13 @@ Currently immersed in the realm of technology while pursuing a **Machine Learnin
   🔶 https://youtu.be/sVJ7ALLzpxk
   🔶 https://youtu.be/63wZMFyn_3Q
   
-  <p>
+    
 - 🔭 I’m currently working on **ML/AI Projects**
 
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **SQL, Networking, Machine Learning**
-</p>
+
 Let's have some fun exploring the coding world together! 🚀
 
 ### Socials
