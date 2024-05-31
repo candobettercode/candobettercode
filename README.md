@@ -7,9 +7,12 @@ My repositories are a mix of exciting projects showcasing real-time data streami
 
 Let's learn and grow together! 🚀 
 
-🔭 Current Endeavors
+## 🔭 Current Endeavors 
+Currently immersed in the realm of technology while pursuing a **Machine Learning and Data Science** specialization at Scaler Academy my journey is an exciting fusion of creation and perpetual learning. Here's a glimpse into my current endeavors:
 
-
+- Actively engaged into intriguing full-stack projects.
+- Leveraging diverse tools and libraries to enhance my skill set.
+- As an early riser, I'm consistently motivated and evolving in the dynamic tech landscape.
 
 - 🎥 Project Video Links -
   🔶 https://youtu.be/sVJ7ALLzpxk
@@ -21,16 +24,8 @@ Let's learn and grow together! 🚀
 
 - 💬 Ask me about **SQL, Networking, Machine Learning**
 
+Let's have some fun exploring the coding world together! 🚀
+
 ### Socials
 
 <p align="left"><a href="https://www.youtube.com/c/tecknowcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Tecknowcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/candobettercode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/candobettercode"><img src="https://github-readme-stats.vercel.app/api?username=candobettercode&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="candobettercode's GitHub stats" /></a>
-
-<a href="http://www.github.com/candobettercode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candobettercode&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/candobettercode"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=candobettercode&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
