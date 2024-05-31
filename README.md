@@ -7,9 +7,12 @@ Data Enthusiastic/ Data Engineer
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p>
-Hey everyone! 👋 Welcome to my GitHub world! 
+👋 Hey fellow coders! I'm Siddhesh
 
-  I'm a passionate Data Enthusiast who loves diving deep into the world of data engineering. My repositories are a mix of exciting projects showcasing real-time data streaming, data warehouse design, and the magic of Apache Spark. I geek out over cloud infrastructure and DevOps, using Terraform and CI/CD to make data dreams come true! 🌟 You'll also find cool stuff on data integration with APIs and web scraping. Let's learn and grow together! 🚀 
+I'm a passionate Data Enthusiast who loves diving deep into the world of data. 
+My repositories are a mix of exciting projects showcasing real-time data streaming, data warehouse design, and the magic of Apache Spark. I geek out over cloud infrastructure and DevOps, using Terraform and CI/CD to make data dreams come true! 🌟 You'll also find cool stuff on data integration with APIs and web scraping. 
+
+Let's learn and grow together! 🚀 
 
 \#DataEnthusiast #DataEngineering #Cloud #ApacheSpark #Terraform #GeekOutWithData
 </p>
