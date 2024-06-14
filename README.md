@@ -13,16 +13,24 @@ Currently immersed in the realm of technology while pursuing a **Machine Learnin
 - Leveraging diverse tools and libraries to enhance my skill set.
 - As an early riser, I'm consistently motivated and evolving in the dynamic tech landscape.
 
-## 🎥 Project Video Links -
-  🔶 https://youtu.be/sVJ7ALLzpxk
+## 🎥 Projects
+### Titanic Survivor ML Prediction: 
+Harnessing Random Forest algorithm, we built a predictive model with 97% accuracy to analyze factors affecting survival rates like age, gender, and ticket class. Integrated into a Streamlit app, users can explore data visualizations and input personal details to receive personalized survival predictions, enhancing decision-making capabilities.
+  🔶 **Link:** https://youtu.be/sVJ7ALLzpxk
+### Superstore Exploratory Data Analysis:
+This project aims to analyze sales trends, customer behavior, and inventory management to drive data-driven decisions. By identifying patterns and correlations, it seeks to optimize operations, enhance profitability, and improve overall business performance through visualization techniques, fostering informed decision-making for sustainable growth.
   🔶 https://youtu.be/63wZMFyn_3Q
-  
     
-- 🔭 I’m currently working on **ML/AI Projects**
-
-- 🌱 I’m currently learning **Deep Learning**
-
+- 🔭 I’m currently working on **DL/AI Projects**
+- 🌱 I’m currently learning **Generative AI**
 - 💬 Ask me about **SQL, Networking, Machine Learning**
+
+
+## 🔧 Toolbox of Magic
+- 🧙‍♂️ **Languages:** Python, C++, HTML, CSS, JavaScript.
+- 🛠️ **Frameworks/Technologies:** Pandas, NumPy, PySpark, Streamlitlib, Scikit-Learn, Keras, TensorFlow, SciPy, Beautiful Soup, Matplotlib, Seaborn, Flask, Docker.
+- 🧰 **Tools/Methodologies:** Tableau, Power BI, GIT, MS Office (Proficient in Excel), VS Code, Looker, Jupyter Notebook, Google Colab.
+- 📀 **Database:**	PostgreSQL, MySQL, Oracle.
 
 Let's have some fun exploring the coding world together! 🚀
 
