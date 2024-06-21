@@ -30,7 +30,7 @@ This project aims to analyze sales trends, customer behavior, and inventory mana
 - 🧙‍♂️ **Languages:** Python, C++, HTML, CSS, JavaScript.
 - 🛠️ **Frameworks/Technologies:** Pandas, NumPy, PySpark, Streamlitlib, Scikit-Learn, Keras, TensorFlow, SciPy, Beautiful Soup, Matplotlib, Seaborn, Flask, Docker.
 - 🧰 **Tools/Methodologies:** Tableau, Power BI, GIT, MS Office (Proficient in Excel), VS Code, Looker, Jupyter Notebook, Google Colab.
-- 📀 **Database:**	PostgreSQL, MySQL, Oracle.
+- 📀 **Database:**	PostgreSQL, MySQL, Oracle, Big Query.
 
 Let's have some fun exploring the coding world together! 🚀
 
