@@ -16,12 +16,10 @@ Currently immersed in the realm of technology while pursuing a **Machine Learnin
 ## 🎥 Projects
 ### 🚢 Titanic Survivor ML Prediction: 
 Harnessing Random Forest algorithm, we built a predictive model with 97% accuracy to analyze factors affecting survival rates like age, gender, and ticket class. Integrated into a Streamlit app, users can explore data visualizations and input personal details to receive personalized survival predictions, enhancing decision-making capabilities.
-
 [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/sVJ7ALLzpxk)
  
 ### 📊 Superstore Exploratory Data Analysis:
 This project aims to analyze sales trends, customer behavior, and inventory management to drive data-driven decisions. By identifying patterns and correlations, it seeks to optimize operations, enhance profitability, and improve overall business performance through visualization techniques, fostering informed decision-making for sustainable growth.
-
 [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/63wZMFyn_3Q)
     
 - 🔭 I’m currently working on **DL/AI Projects**
