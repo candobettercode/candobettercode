@@ -33,8 +33,10 @@ This project aims to analyze sales trends, customer behavior, and inventory mana
 - 🧰 **Tools/Methodologies:** Tableau, Power BI, GIT, MS Office (Proficient in Excel), VS Code, Looker, Jupyter Notebook, Google Colab.
 - 📀 **Database:**	PostgreSQL, MySQL, Oracle, Big Query.
 
+⚡ Fun fact **Programmers Use Dark Mode Because Light Attracts Bugs!**
+
 Let's have some fun exploring the coding world together! 🚀
 
-### Socials
+### Connect with me:
 
 <p align="left"><a href="https://www.youtube.com/c/tecknowcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Tecknowcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/candobettercode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
