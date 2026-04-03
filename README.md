@@ -23,7 +23,7 @@ This project aims to analyze sales trends, customer behavior, and inventory mana
 [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/63wZMFyn_3Q)
     
 - 🔭 I’m currently working on **DL/AI Projects**
-- 🌱 I’m currently learning **Generative AI** and **Agentic AI**
+- 🌱 I’m currently learning **Generative AI**, **Cloud Infrastructure** and **Agentic AI**
 - 💬 Ask me about **SQL, Networking, Machine Learning**
 
 
